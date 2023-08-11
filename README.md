@@ -10,9 +10,9 @@ rockme.py is for educational and security awareness purposes only.
 # Updates
 - Fixed main menu validation code, which was causing issues with checking user string against wordlist for matches, thus incorrectly always returning no matches found [08/10/2023]
   
-- Added the wordlist 'darkweb2017-top10000.txt'
+- Added the wordlist 'darkweb2017-top10000.txt' [08/10/2023]
 
-- Added red text color when displaying invalid input error message
+- Added red text color when displaying invalid input error message [08/10/2023]
 
 
 # Future Developments
